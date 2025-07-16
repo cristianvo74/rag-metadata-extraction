@@ -1,0 +1,48 @@
+{
+  "deepeval_metrics": {
+    "title_AnswerRelevancy": 0.5,
+    "title_FaithfulnessMetric": 0.0,
+    "title_ContextualPrecision": 0.5,
+    "authors_AnswerRelevancy": 0.5,
+    "authors_FaithfulnessMetric": 0.0,
+    "authors_ContextualPrecision": 1.0,
+    "publication_year_AnswerRelevancy": 1.0,
+    "publication_year_FaithfulnessMetric": 0.0,
+    "publication_year_ContextualPrecision": 0.75,
+    "journal_AnswerRelevancy": 0.6,
+    "journal_FaithfulnessMetric": 0.0,
+    "journal_ContextualPrecision": 0.7555555555555555,
+    "abstract_AnswerRelevancy": 0.6666666666666666,
+    "abstract_FaithfulnessMetric": 0.0,
+    "abstract_ContextualPrecision": 1.0,
+    "keywords_AnswerRelevancy": 0.6,
+    "keywords_FaithfulnessMetric": 0.0,
+    "keywords_ContextualPrecision": 1.0,
+    "regions_AnswerRelevancy": 1.0,
+    "regions_Faithfulness": 0.6666666666666666,
+    "regions_ContextualPrecision": 0.7555555555555555,
+    "language_AnswerRelevancy": 0.6,
+    "language_FaithfulnessMetric": 0.0,
+    "language_ContextualPrecision": 0.7555555555555555,
+    "avg_AnswerRelevancy": 0.6833333333333333,
+    "avg_Faithfulness": 0.08333333333333333,
+    "avg_ContextualPrecision": 0.8145833333333333,
+    "overall_score": 0.5270833333333332
+  },
+  "custom_metrics": {
+    "title_exact": 1.0,
+    "authors_accuracy": 1.0,
+    "publication_year_exact": 1.0,
+    "journal_mismatch": 0.0,
+    "abstract_mismatch": 0.0,
+    "keywords_jaccard": 0.1111111111111111,
+    "regions_jaccard": 1.0,
+    "language_exact": 1.0,
+    "custom_avg_score": 0.8518518518518517
+  },
+  "summary": {
+    "deepeval_overall": 0.5270833333333332,
+    "custom_overall": 0.8518518518518517,
+    "final_score": 0.6894675925925925
+  }
+}
